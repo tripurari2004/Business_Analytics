@@ -6,7 +6,7 @@
 
 ---
 
-| 🌐 **Project Site** | [Live Dashboard]() |
+| 🌐 **Project Site** | [Live Dashboard](https://tripurari2004.github.io/Business_Analytics/) |
 | ------------------- | ------------------------------------------------------------------ |
 | 🎞️ **Viva Slides** | [Presentation (PPT)](https://tripurari-bdm.my.canva.site/bdm-project)                         |
 
