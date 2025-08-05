@@ -90,7 +90,7 @@
 
 ### 🟩 Correlation Between Sales & Purchase
 
-<img src="https://i.ibb.co/d0gYgk8n/Correlation.png" alt="Correlation" width="600">
+<img src="https://i.ibb.co/hRssVHPF/Correlation.png" alt="Correlation" width="600">
 
 > Correlation coefficient **r ≈ +0.9954** – Advance purchasing leads to better sales outcomes.
 
