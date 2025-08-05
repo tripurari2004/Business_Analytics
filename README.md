@@ -64,7 +64,7 @@
 
 ### 🟦 Monthly Sales Trends – Top 5 Items
 
-<img src="https://i.ibb.co/BVQHCJQv/Monthly-Sales.png" alt="Monthly Sales Trend" width="600"/>
+<img src="https://i.ibb.co/BVcMJ7JC/Monthly-Sales.png" alt="Monthly-Sales" width="600">
 
 > **Insights**: High sales in June & January; dips in April & December – matching academic calendar.
 
@@ -90,7 +90,7 @@
 
 ### 🟩 Correlation Between Sales & Purchase
 
-<img src="https://i.ibb.co/zWPC6qjs/Correlation.png" alt="Sales vs Purchase" width="600"/>
+<img src="https://i.ibb.co/d0gYgk8n/Correlation.png" alt="Correlation" width="600">
 
 > Correlation coefficient **r ≈ +0.9954** – Advance purchasing leads to better sales outcomes.
 
